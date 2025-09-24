@@ -208,7 +208,7 @@ p.note { display: none; }
 <a href="20250924_023.JPG" target="_blank"><img src="20250924_023.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250924_024.JPG" target="_blank"><img src="20250924_024.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">メーちゃん街でBangKok Bankに寄ります</span></h2>
+<h2><span class="yellow">メーチャンの街でBangKok Bankに寄ります</span></h2>
 <a href="20250924_025.JPG" target="_blank"><img src="20250924_025.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">向かい側は携帯のお店</span></h2>
