@@ -296,7 +296,7 @@ p.note { display: none; }
 <a href="20250924_065.JPG" target="_blank"><img src="20250924_065.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250924_066.JPG" target="_blank"><img src="20250924_066.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">中央分離帯の象さんのお着物と野鳥の鳩</span></h2>
+<h2><span class="yellow">中央分離帯の象さんの置き物と野鳥の鳩</span></h2>
 <a href="20250924_067.JPG" target="_blank"><img src="20250924_067.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">北に湧き上がる入道雲</span></h2>
